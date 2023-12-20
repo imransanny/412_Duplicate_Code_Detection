@@ -1,0 +1,13 @@
+new repository on the command line
+git init 
+git add.
+git commit -m "comment anything"
+git status
+git branch -M main
+https://github.com/imransanny/412_Duplicate_Code_Detection
+git push -u origin main
+
+push an existing repository from the command line
+git remote add origin https://github.com/imransanny/test_t.git
+git branch -M main
+git push -u origin main
