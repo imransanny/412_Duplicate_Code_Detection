@@ -8,6 +8,6 @@ https://github.com/imransanny/412_Duplicate_Code_Detection
 git push -u origin main
 
 push an existing repository from the command line
-git remote add origin https://github.com/imransanny/test_t.git
+git remote add origin https://github.com/imransanny/412_Duplicate_Code_Detection
 git branch -M main
 git push -u origin main
