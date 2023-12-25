@@ -13,7 +13,7 @@ int main()
     reverse = reverse * 10 + remainder;
     n /= 10;
   }
-  printf("abc def")
+  printf("abc def");
 
   printf("Reversed number = %d", reverse);
 
