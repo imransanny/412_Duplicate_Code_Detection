@@ -1,4 +1,4 @@
-#include <stdio.h>
+#############3#include <stdio.h>
 
 int main() 
 {
@@ -14,9 +14,8 @@ int main()
     n /= 10;
   }
   printf("abc def");
+
   printf("Reversed number = %d", reverse);
-
-
 
   return 0;
 }
