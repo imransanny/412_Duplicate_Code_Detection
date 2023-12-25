@@ -13,7 +13,7 @@ git branch -M main
 git push -u origin main
 
 
-normal code for my laptop:
+#############normal code for my laptop:
 git init 
 git add.
 git status
